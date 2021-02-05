@@ -17,7 +17,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:alwaysRetainTaskState="true"
-
     >
         <receiver android:name=".ActionReceiver"></receiver>
 
